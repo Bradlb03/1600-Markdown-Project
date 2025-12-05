@@ -3,5 +3,5 @@ This is for INFOTC-1600 Homework 4
 
 This repo contains the entire scripts to two classic movies.
 
-- [Bee Movie Script](Bee_Movie_Script)
-- [Shrek 2 Script](Shrek_2_Script)
+- [Bee Movie Script](Bee_Movie_Script.md)
+- [Shrek 2 Script](Shrek_2_Script.md)
